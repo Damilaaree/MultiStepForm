@@ -159,7 +159,7 @@ function goStepTwo() {
       anneePro.style.backgroundColor = "white";
       anneePro.style.border = " solid 1px hsl(229, 24%, 87%)";
       /* la suite */
-      document.getElementById("modeResume").innerHTML = "Advenced (monthly)";
+      document.getElementById("modeResume").innerHTML = "Advanced (monthly)";
       document.getElementById("priceResume").innerHTML = "12$/mo";
       document.getElementById("modeTotal").innerHTML = "Total (per month)";
     });
@@ -222,7 +222,7 @@ function goStepTwo() {
       anneePro.style.backgroundColor = "white";
       anneePro.style.border = " solid 1px hsl(229, 24%, 87%)";
       /* la suite */
-      document.getElementById("modeResume").innerHTML = "Advenced (yearly)";
+      document.getElementById("modeResume").innerHTML = "Advanced (yearly)";
       document.getElementById("priceResume").innerHTML = "12O$/yr";
       document.getElementById("modeTotal").innerHTML = "Total (per year)";
     });
