@@ -206,7 +206,7 @@ function goStepTwo() {
       document.getElementById("modeTotal").innerHTML = "Total (per year)";
     });
   checkBox = document
-    .getElementById("anneeAdvenced")
+    .getElementById("anneeAdvanced")
     .addEventListener("click", event => {
       anneeAdvanced.style.backgroundColor = "hsl(217, 100%, 97%)";
       anneeAdvanced.style.border = " solid 1px hsl(213, 96%, 18%)";
@@ -248,7 +248,7 @@ function goStepTwo() {
       document.getElementById("modeTotal").innerHTML = "Total (per year)";
     });
   
-  /*function pour chopper les infos des ADD ONS */
+  
   
   checkBox = document
     .getElementById("onlineMois")
